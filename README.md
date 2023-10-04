@@ -3,7 +3,7 @@
 
 custom python code for vortex identification and wake frequency analysis
 
-https://github.com/ofercak/dye-based-flow-structure-videntification
+https://github.com/ofercak/Dye-Based-Flow-Structure-Identification
 
 1. DV_0_K-Means.py is a simple K-Means quantization algorithm to illustrate the method. 
 
